@@ -1,0 +1,9 @@
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\bin\Debug\CalculadoraCS.exe.config
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\bin\Debug\CalculadoraCS.exe
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\bin\Debug\CalculadoraCS.pdb
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\obj\Debug\CalculadoraCS.Form1.resources
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\obj\Debug\CalculadoraCS.Properties.Resources.resources
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\obj\Debug\CalculadoraCS.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\obj\Debug\CalculadoraCS.exe
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\obj\Debug\CalculadoraCS.pdb
+C:\Users\nicol\OneDrive - Fatec Centro Paula Souza\FATEC\CODES\CalculadoraCS\obj\Debug\CalculadoraCS.csprojAssemblyReference.cache
