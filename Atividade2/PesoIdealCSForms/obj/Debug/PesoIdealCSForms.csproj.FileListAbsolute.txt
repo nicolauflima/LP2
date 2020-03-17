@@ -1,0 +1,9 @@
+C:\Users\nicol\source\repos\PesoIdealCSForms\bin\Debug\PesoIdealCSForms.exe.config
+C:\Users\nicol\source\repos\PesoIdealCSForms\bin\Debug\PesoIdealCSForms.exe
+C:\Users\nicol\source\repos\PesoIdealCSForms\bin\Debug\PesoIdealCSForms.pdb
+C:\Users\nicol\source\repos\PesoIdealCSForms\obj\Debug\PesoIdealCSForms.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\PesoIdealCSForms\obj\Debug\PesoIdealCSForms.Form1.resources
+C:\Users\nicol\source\repos\PesoIdealCSForms\obj\Debug\PesoIdealCSForms.Properties.Resources.resources
+C:\Users\nicol\source\repos\PesoIdealCSForms\obj\Debug\PesoIdealCSForms.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\PesoIdealCSForms\obj\Debug\PesoIdealCSForms.exe
+C:\Users\nicol\source\repos\PesoIdealCSForms\obj\Debug\PesoIdealCSForms.pdb
