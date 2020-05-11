@@ -1,0 +1,10 @@
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\bin\Debug\Exercicio3_Triangulos.exe.config
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\bin\Debug\Exercicio3_Triangulos.exe
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\bin\Debug\Exercicio3_Triangulos.pdb
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.csprojAssemblyReference.cache
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.Form1.resources
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.Properties.Resources.resources
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.csproj.GenerateResource.cache
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.exe
+C:\Users\nicol\Source\Repos\Exercicio3_Triangulos\Exercicio3_Triangulos\obj\Debug\Exercicio3_Triangulos.pdb
