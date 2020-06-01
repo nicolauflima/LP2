@@ -1,0 +1,11 @@
+C:\Users\nicol\Desktop\Repos\Atividade_7\bin\Debug\Atividade_7.exe.config
+C:\Users\nicol\Desktop\Repos\Atividade_7\bin\Debug\Atividade_7.exe
+C:\Users\nicol\Desktop\Repos\Atividade_7\bin\Debug\Atividade_7.pdb
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.Form1.resources
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.Properties.Resources.resources
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.exe
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.pdb
+C:\Users\nicol\Desktop\Repos\Atividade_7\obj\Debug\Atividade_7.Exercicio7.resources
