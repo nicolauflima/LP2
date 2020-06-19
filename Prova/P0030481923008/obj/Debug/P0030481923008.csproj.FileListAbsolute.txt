@@ -1,0 +1,10 @@
+C:\Users\nicol\source\repos\P0030481923008\bin\Debug\P0030481923008.exe.config
+C:\Users\nicol\source\repos\P0030481923008\bin\Debug\P0030481923008.exe
+C:\Users\nicol\source\repos\P0030481923008\bin\Debug\P0030481923008.pdb
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.Form1.resources
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.Properties.Resources.resources
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.exe
+C:\Users\nicol\source\repos\P0030481923008\obj\Debug\P0030481923008.pdb
